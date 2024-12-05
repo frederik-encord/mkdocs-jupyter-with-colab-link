@@ -1,5 +1,5 @@
 [project]
-name = "mkdocs-jupyter"
+name = "mkdocs-jupyter-with-colab"
 description = "Use Jupyter in mkdocs websites"
 readme = "README.md"
 requires-python = ">=3.9"
